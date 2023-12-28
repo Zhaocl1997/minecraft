@@ -6,7 +6,7 @@ local geolyzer = component.geolyzer
 local debug = component.debug
 local navigation = component.navigation
 
--- B站视频：
+-- B站视频：https://www.bilibili.com/video/BV1WC4y1B71t
 -- lua压缩：https://codebeautify.org/lua-minifier#
 -- oc文档：https://ocdoc.cil.li/
 -- 用到的lua操作
